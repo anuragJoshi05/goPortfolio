@@ -16,7 +16,7 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.black, // Set the background color to black
+      backgroundColor: Colors.black, // Set the background color to black hb hb
       body: Padding(
         padding: const EdgeInsets.only(
           top: 100,
